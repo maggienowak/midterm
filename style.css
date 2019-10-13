@@ -16,6 +16,15 @@ h1 {
     color:white;
 }
 
+h2 {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: 'Bowlby One', cursive;
+    color:white;
+}
+
 ul {
     text-align: center;
     padding-left: 50px;
