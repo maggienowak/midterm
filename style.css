@@ -26,6 +26,33 @@ h2 {
     color:white;
 }
 
+h3 {
+    text-align: right;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-family: 'Bowlby One', cursive;
+    color:white;
+}
+
+h4 {
+    text-align: right;
+    font-size: 10px;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-family: 'Bowlby One', cursive;
+    color:white;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 20px;
+    margin-top: 50px;
+    color:white;
+}
+
 ul {
     text-align: center;
     padding-left: 50px;
@@ -47,10 +74,3 @@ a:visited { text-decoration: none; color:white; }
 a:hover { text-decoration: none; color:lavender; }
 a:focus { text-decoration: none; color:lavenderblush; }
 a:hover, a:active { text-decoration: none; color:black 
-
-p {
-    line-height: 1.6;
-    font-size: 20px;
-    margin-top: 50px;
-    color:white;
-}
