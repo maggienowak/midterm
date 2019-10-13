@@ -50,6 +50,8 @@ p {
     line-height: 1.6;
     font-size: 20px;
     margin-top: 50px;
+    font-weight: normal;
+    font-family: 'Bowlby One', cursive;
     color:white;
 }
 
@@ -60,6 +62,23 @@ ul {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.grid { 
+    width: 31%;
+    display: inline-block;
+  }
+  
+  .main {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  div {
+    border: solid grey 2px;
+    border-radius: 20px;
+    box-shadow: 2px 5px lightgrey;
+    padding: 10px;
+  }
 
 li {
     display: inline-block;
