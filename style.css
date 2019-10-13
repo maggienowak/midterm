@@ -72,13 +72,6 @@ ul {
     margin-bottom: 20px;
     margin-top: 20px;
   }
-  
-  div {
-    border: solid grey 2px;
-    border-radius: 20px;
-    box-shadow: 2px 5px lightgrey;
-    padding: 10px;
-  }
 
 li {
     display: inline-block;
