@@ -3,6 +3,9 @@ body {
 }
 
 header {
+    background: black;
+    padding-top: 50px;
+	padding-bottom: 50px;
     text-align: center;
     font-family: 'Bowlby One', cursive;
 }
