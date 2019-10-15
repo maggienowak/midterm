@@ -17,6 +17,12 @@ h1 {
   color:white;
 }
 
+h2 {
+    font-size: 40px;
+    font-family: 'Bowlby One', cursive;
+    float: center;
+  }
+
 .three {
     text-align: center;
     line-height: 1.6;
