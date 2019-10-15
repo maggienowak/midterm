@@ -25,14 +25,6 @@ h1 {
     float: center;
 }
 
-.two {
-    color: black;
-    letter-spacing: 3px;
-    text-shadow: 3px 3px white;
-    font-family: 'Bowlby One', cursive;
-    float: center; 
-}
-
 .three {
     text-align: center;
     line-height: 1.6;
