@@ -73,7 +73,10 @@ li {
     margin: 10px;
 }
 
-a { color:white} /* Globally */
+a { color:white;
+    font-family: 'Bowlby One', cursive;
+}
+    /* Globally */
 
 /* Each state */
 
