@@ -10,15 +10,43 @@ header {
     font-family: 'Bowlby One', cursive;
 }
 
-h2 {
-    text-align: center;
-    font-size: 50px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Bowlby One', cursive;
+  color:white;
+}
+
+.one {
+    color: white;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px grey;
     font-family: 'Bowlby One', cursive;
-    color: white
+    float: center;
+}
+
+.two {
+    color: black;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px white;
+    font-family: 'Bowlby One', cursive;
+    float: center; 
+}
+
+.three {
+    text-align: center;
+    line-height: 1.6;
+    font-size: 20px;
+    word-spacing: normal;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-family: 'Bowlby One', cursive;
+    color: lavender;
 }
 
 h4 {
