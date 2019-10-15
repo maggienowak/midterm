@@ -17,14 +17,6 @@ h1 {
   color:white;
 }
 
-.one {
-    color: white;
-    letter-spacing: 3px;
-    text-shadow: 3px 3px grey;
-    font-family: 'Bowlby One', cursive;
-    float: center;
-}
-
 .three {
     text-align: center;
     line-height: 1.6;
