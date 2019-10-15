@@ -42,7 +42,7 @@ h4 {
     margin-left: 15px;
     margin-top: 15px;
     font-weight: bold;
-    font-family: 'Bowlby One', cursive;
+    font-family:'Open Sans', sans-serif;
     color:white;
 }
 
@@ -51,7 +51,7 @@ p {
     font-size: 20px;
     margin-top: 50px;
     font-weight: normal;
-    font-family: 'Bowlby One', cursive;
+    font-family:'Open Sans', sans-serif;
     color:white;
 }
 
@@ -79,5 +79,5 @@ a { color:white} /* Globally */
 
 a:visited { text-decoration: none; color:white; }
 a:hover { text-decoration: none; color:lavender; }
-a:focus { text-decoration: none; color:lavenderblush; }
-a:hover, a:active { text-decoration: none; color:black; }
+a:focus { text-decoration: none; color:lavender; }
+a:hover, a:active { text-decoration: none; color: lavender; }
