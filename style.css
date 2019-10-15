@@ -73,9 +73,7 @@ li {
     margin: 10px;
 }
 
-a { color:white;
-    font-family: 'Bowlby One', cursive;
-} /* Globally */
+a { color:white;} /* Globally */
 
 /* Each state */
 
